@@ -1,0 +1,19 @@
+
+.menu-bg{
+    background-color: #fff;
+}
+.social-menu li a.nav-link, .main-menu li a.nav-link{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 28px;
+
+color: #676565;
+}
+.social-menu li a.nav-link{
+    font-size: 20px;  
+}
+.main-menu li a.nav-link:hover, .social-menu li a.nav-link:hover{
+    color: #FF00B8!important;
+}
