@@ -4,3 +4,26 @@ body{
   background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
   font-family: 'Red Hat Display', sans-serif;
 }
+
+.progress {
+  height: .6rem;
+  border-radius: 25.5px;
+}
+.progress-bar {
+  background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
+
+}
+.brand-btn {
+  color: #141471;
+  padding: 10px;
+  font-size: 14px;
+  border: 2px solid #141471;
+  border-radius: 5px;
+  background-color: #fff;
+  font-style: normal;
+  font-weight: 700;
+}
+.brand-btn:hover{
+  color:#fff;
+  background-color: #141471;
+}
