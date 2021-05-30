@@ -6,7 +6,7 @@ const FeatureCardDetails = (props) => {
 
     return (
 
-        <div className="feature-card ">
+        <div className="feature-card rounded">
             <div className="card-title d-flex justify-content-between">
                 <p><img src={icon} alt="" /></p>
                 <h3>{title}</h3>

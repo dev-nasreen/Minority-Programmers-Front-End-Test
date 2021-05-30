@@ -1,0 +1,9 @@
+.SupportBtn {
+    margin-top: -276px;
+    margin-left: 145px;
+}
+.SupportBtn:hover{
+    background-color: #141471;
+    color: #fff;
+    transition: 0.5s;
+}

@@ -23,7 +23,7 @@ const Navbar = () => {
                                 <Link className="nav-link" aria-current="page" to="https://twitter.com/minorityprogram"><AiOutlineTwitter/></Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="https://www.facebook.com/MinorityProgrammers">< AiFillFacebook /></Link>
+                                <Link className="nav-link" to="https://www.facebook.com/MinorityProgrammers"><AiFillFacebook /></Link>
                             </li>
 
                             <li className="nav-item">

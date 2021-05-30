@@ -5,6 +5,7 @@ body{
   font-family: 'Red Hat Display', sans-serif;
 }
 
+/************************** Progress Bar style **************************/
 .progress {
   height: .6rem;
   border-radius: 25.5px;
@@ -13,6 +14,7 @@ body{
   background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
 
 }
+/************************** Brand btn style **************************/
 .brand-btn {
   color: #141471;
   padding: 10px;
@@ -26,4 +28,79 @@ body{
 .brand-btn:hover{
   color:#fff;
   background-color: #141471;
+}
+
+
+.container-brand {
+  width: 90%;
+  margin: 0 auto;
+}
+
+
+
+/******************** Incubator ********************/
+.incubator-bar {
+  background-color: white;
+  color: black;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+/************************** Home Background Color **************************/
+.home-background{
+  background: linear-gradient(104.61deg, #ff00a3a1 2.65%, #ff655bab 51.83%, #ffc70091 100%);
+}
+
+
+.incubator-container {
+  background-color: white;
+  color: black;
+}
+
+/************************** Learn Page container style **************************/
+.learn-page-container{
+  background: #151371;
+  padding: 100px 0;
+}
+
+.learn-btn{
+  color: #fff;
+  padding: 8px 50px;
+  text-decoration: none;
+  font-size: 14px;
+  border: none;
+  border-radius: 15px;
+  background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
+  font-style: normal;
+  font-weight: 700;
+}
+.course-card{
+  background-image:url('./images/card-bg.png');
+  background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.title h2{
+  position: relative;
+}
+.title h2::after {
+  content: '';
+  position: absolute;
+  width: 70%;
+  height: 2px;
+  background-color: #fff;
+  left: 183px;
+  top: 20px;
+}
+.slick-next, .slick-prev {
+  top: -27px!important;
+}
+.slick-prev{
+  left: 88%!important;
+}
+.slick-next {
+  right: 7%!important;
+}
+.f-title h2::after{
+  width: 60%;
+  left:24%;
 }

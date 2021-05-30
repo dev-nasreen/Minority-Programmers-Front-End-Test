@@ -3,7 +3,7 @@ import './HomeBanner.css'
 const HomeBanner = () => {
     return (
         <div className="featuredHome-container">
-        <main className="row d-flex align-items-center">
+        <main className="row d-flex align-items-center container-brand">
           <div className="col-md-4"></div>
           <div className="col-md-4 offset-md-3 mt-5">
             <h1 className="mt-5" style={{ color: "#ffff" }}>

@@ -3,7 +3,7 @@ import FeaturedArea from '../FeaturedArea/FeaturedArea';
 
 const HomeBody = () => {
     return (
-        <main className="">
+        <main className="container-brand">
            <FeaturedArea></FeaturedArea> 
         </main>
     );

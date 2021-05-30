@@ -1,11 +1,11 @@
 import React from 'react';
-import { AiOutlineLinkedin, AiOutlineTwitter } from 'react-icons/ai'
+import { AiOutlineTwitter } from 'react-icons/ai'
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaFacebookF } from "react-icons/fa";
 
 const Sidebar = () => {
     return (
-      <div className="sidebar d-flex flex-column justify-content-between col-md-3 py-1 px-1">
+      <div className="sidebar d-flex flex-column justify-content-between col-md-3 py-1 px-1 bg-white">
         <p>Founded 17th May, 2015</p>
         <hr />
         <small>Website</small>

@@ -1,0 +1,178 @@
+[
+    {
+    "id":1,
+    "courseName": "Intro to Blockchain",
+    "courseSubTitle": "Blockchain Cryptocurrency Fundamentals",
+    "modulesCompletion": "8.3/10 Modules",
+    "completionRate": 83,
+    "modules": [
+      {
+        "week": "Week-1 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 100,
+        "status": "Completed"
+      },
+      {
+        "week": "Week-2 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 70,
+        "status": "InProgress"
+      },
+      {
+        "week": "Week-3 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 0,
+        "status": "Start"
+      },
+      {
+        "week": "Week-4 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 50,
+        "status": "InProgress"
+      },
+      {
+        "week1": "Week-5 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 100,
+        "status": "Completed"
+      }
+
+    ]
+  },
+    {
+        "id":2,
+    "courseName": "Intro to Blockchain",
+    "courseSubTitle": "Blockchain Cryptocurrency Fundamentals",
+    "modulesCompletion": "8.3/10 Modules",
+    "completionRate": 83,
+    "modules": [
+      {
+        "week": "Week-1 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 100,
+        "status": "Completed"
+      },
+      {
+        "week": "Week-2 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 80,
+        "status": "InProgress"
+      },
+      {
+        "week": "Week-3 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 0,
+        "status": "Start"
+      },
+      {
+        "week": "Week-4 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 40,
+        "status": "InProgress"
+      },
+      {
+        "week1": "Week-5 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 100,
+        "status": "Completed"
+      }
+
+    ]
+  },
+    {
+        "id":3,
+    "courseName": "Intro to Blockchain",
+    "courseSubTitle": "Blockchain Cryptocurrency Fundamentals",
+    "modulesCompletion": "8.3/10 Modules",
+    "completionRate": 83,
+    "modules": [
+      {
+        "week": "Week-1 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 100,
+        "status": "Completed"
+      },
+      {
+        "week": "Week-2 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 80,
+        "status": "InProgress"
+      },
+      {
+        "week": "Week-3 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 0,
+        "status": "Start"
+      },
+      {
+        "week": "Week-4 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 40,
+        "status": "InProgress"
+      },
+      {
+        "week1": "Week-5 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 100,
+        "status": "Completed"
+      }
+
+    ]
+  },
+    {
+        "id":4,
+    "courseName": "Intro to Blockchain",
+    "courseSubTitle": "Blockchain Cryptocurrency Fundamentals",
+    "modulesCompletion": "8.3/10 Modules",
+    "completionRate": 83,
+    "modules": [
+      {
+        "week": "Week-1 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 100,
+        "status": "Completed"
+      },
+      {
+        "week": "Week-2 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 80,
+        "status": "InProgress"
+      },
+      {
+        "week": "Week-3 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 0,
+        "status": "Start"
+      },
+      {
+        "week": "Week-4 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 40,
+        "status": "InProgress"
+      },
+      {
+        "week1": "Week-5 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 100,
+        "status": "Completed"
+      }
+
+    ]
+  },
+    {
+        "id":5,
+    "courseName": "Intro to Blockchain",
+    "courseSubTitle": "Blockchain Cryptocurrency Fundamentals",
+    "modulesCompletion": "8.3/10 Modules",
+    "completionRate": 83,
+    "modules": [
+      {
+        "week": "Week-1 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 100,
+        "status": "Completed"
+      },
+      {
+        "week": "Week-2 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 80,
+        "status": "InProgress"
+      },
+      {
+        "week": "Week-3 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 0,
+        "status": "Start"
+      },
+      {
+        "week": "Week-4 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 40,
+        "status": "InProgress"
+      },
+      {
+        "week1": "Week-5 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 100,
+        "status": "Completed"
+      }
+
+    ]
+  }
+    
+]
