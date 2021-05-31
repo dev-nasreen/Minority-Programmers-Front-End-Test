@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './FeaturedStartups.css'
 
 const FeatureCardDetails = (props) => {
@@ -22,12 +23,12 @@ const FeatureCardDetails = (props) => {
                 </div>
             </div>
             <h5 style={{ fontSize: '18px', fontWeight: 'bold' }}>{fundAmount}</h5>
-            <div className="d-flex justify-content-between">
+            <div className="d-flex justify-content-between mt-4">
                 <div>
-                    <button className="brand-btn">Fund Startup</button>
+                    <Link to="/incubator" className="brand-btn">Fund Startup</Link>
                 </div>
                 <div>
-                    <button className="brand-btn">Learn More</button>
+                    <Link to="/learnPage" className="brand-btn">Learn More</Link>
                 </div>
             </div>
         </div>

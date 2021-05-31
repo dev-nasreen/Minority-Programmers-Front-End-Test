@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react';
-import Sidebar from '../../Components/Sidebar/Sidebar';
 import incubatorData from '../../Components/fakeData/incubator.json';
 import upcomingStartupsCard from '../../Components/fakeData/home.json';
 import IncubatorSliderBar from '../../Components/IncubatorSlideBar/IncubatorSliderBar';
 import Slider from "react-slick";
+import Sidebar from '../../Components/Sidebar/Sidebar';
 
 const Incubator = () => {
   
@@ -42,7 +42,6 @@ const Incubator = () => {
 
 
         <div className="row">
-          <div className="col-md-3"><Sidebar></Sidebar></div>
           <div className="col-md-3">
             <Sidebar/>
           </div>

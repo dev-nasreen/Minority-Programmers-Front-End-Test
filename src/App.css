@@ -45,7 +45,7 @@ body{
   margin-top: 30px;
   margin-bottom: 20px;
 }
-/************************** Home Background Color **************************/
+/************************** Home page **************************/
 .home-background{
   background: linear-gradient(104.61deg, #ff00a3a1 2.65%, #ff655bab 51.83%, #ffc70091 100%);
 }
@@ -91,16 +91,77 @@ body{
   left: 183px;
   top: 20px;
 }
-.slick-next, .slick-prev {
+.learn-page-container .slick-next, .learn-page-container .slick-prev {
   top: -27px!important;
 }
-.slick-prev{
+.learn-page-container .slick-prev{
   left: 88%!important;
 }
-.slick-next {
+.learn-page-container .slick-next {
   right: 7%!important;
 }
 .f-title h2::after{
   width: 60%;
   left:24%;
+}
+
+.week-card{
+  background-image: url(./images/week-bg.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.week-card a{
+  text-decoration: none;
+}
+.activity img{
+  height:150px;
+
+/************************** Search Course Page container style **************************/
+  background: #151371;
+  margin-bottom: 0px;
+}
+
+
+
+
+/**************************** CourseBanner.js ****************************/
+.course-banner {
+  padding: 60px 0;
+  color: white;
+}
+
+.course-banner .banner-content h2{
+  margin: 0;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+
+.course-banner .banner-content p{
+  font-size: 22px;
+}
+
+
+.banner-profile {
+  padding-left: 10%;
+}
+
+
+.banner-content {
+  padding-left: 10%;
+}
+
+
+.course-banner .banner-resume {
+  padding-left: 10%;
+  padding-top: 20px;
+}
+
+.banner-resume .button-resume {
+  background: #151371;
+  color: white;
+  font-weight: bold;
+  padding: 8px 50px;
+  border-radius: 12px;
 }

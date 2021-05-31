@@ -1,0 +1,8 @@
+.learnBanner-container {
+    height: 455px;
+    background-image: url(../../images/world.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-left: -98px;
+}

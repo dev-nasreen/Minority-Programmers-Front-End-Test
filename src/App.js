@@ -8,10 +8,13 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
-import Navbar from './Components/Navbar/Navbar';
 import Incubator from "./Pages/Incubator/Incubator";
 import Home from "./Pages/Home/Home";
 import LearnPage from "./Pages/LearnPage/LearnPage";
+import UserDashboard from './Components/UserDashboard/UserDashboard'
+import CourseItems from "./Components/UserDashboard/CourseItems";
+import Navbar from './Components/Navbar/Navbar';
+import CourseActivities from "./Components/UserDashboard/CourseActivities";
 
 function App() {
   return (
@@ -25,7 +28,13 @@ function App() {
          <LearnPage></LearnPage>
         </Route>
         <Route path='/userDashboard/:id'>
-         <LearnPage></LearnPage>
+         <UserDashboard></UserDashboard>
+        </Route>
+        <Route path='/courseItem/:_id'>
+         <CourseItems></CourseItems>
+        </Route>
+        <Route path='/courseActivities/:__id'>
+         <CourseActivities></CourseActivities>
         </Route>
         <Route exact path='/'>
           <Home></Home>

@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const CourseCard = ({ course }) => {
-    const { courseName, courseSubTitle, modulesCompletion, completionRate, modules } = course;
+    const { courseName, courseSubTitle, modulesCompletion, completionRate, modules, id } = course;
     return (
         <div className="course-card rounded text-white me-3 p-4">
             <div className="card-title">
@@ -10,7 +10,7 @@ const CourseCard = ({ course }) => {
                 <p>{courseSubTitle}</p>
             </div>
             <div className="text-center my-3">
-                <Link to={`/userDashboard/:id`} className="learn-btn">Learn</Link>
+                <Link to={'/userDashboard/'+id} className="learn-btn">Learn</Link>
             </div>
             <div>
                 <p className="text-end">{modulesCompletion}</p>

@@ -11,7 +11,7 @@ const FeaturedSupportData = [
   },
   {
     img: joinMinority,
-    btnTitle: "Join Minority Ventures Cohort",
+    btnTitle: "Join Minority",
   },
   {
     img: helpCode,
@@ -22,16 +22,18 @@ const FeaturedSupportData = [
 const FeaturedSupport = () => {
   return (
     <section>
-      <div className="d-flex justify-content-center mt-5 container">
-        <div className="row">
+      <div className=" mt-5 container">
+        <div className="row d-flex justify-content-center">
           {FeaturedSupportData.map((featuredSupport) => (
-            <div className="col-md-4">
-              <img
-                src={featuredSupport.img}
-                alt=""
-                className="img-fluid rounded"
-              />
-              <div>
+            <div className="col-md-4 single-feature mb-3">
+              <div className="feature-img">
+                <img
+                  src={featuredSupport.img}
+                  alt=""
+                  className="img-fluid rounded"
+                />
+              </div>
+              <div className="feature-btn">
                 <button className="btn SupportBtn btn-outline-light">
                   {featuredSupport.btnTitle}
                 </button>

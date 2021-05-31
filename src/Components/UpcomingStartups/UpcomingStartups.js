@@ -29,6 +29,11 @@ const UpcomingStartups = () => {
             ))}
           </div>
         </div>
+        <div className="text-center mb-5 ">
+          <button className="btn btn-outline-light px-5 loadMore-btn">
+            Load More
+          </button>
+        </div>
       </div>
     );
 };

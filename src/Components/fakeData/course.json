@@ -1,175 +1,530 @@
 [
     {
     "id":1,
+    "username": "Sakil",
     "courseName": "Intro to Blockchain",
     "courseSubTitle": "Blockchain Cryptocurrency Fundamentals",
     "modulesCompletion": "8.3/10 Modules",
     "completionRate": 83,
     "modules": [
-      {
-        "week": "Week-1 Fundamentals of Cryptocurrency",
+      { "_id": 1,
+        "weekTitle": "Week-1 Fundamentals of Cryptocurrency",
         "mCompletionRate": 100,
-        "status": "Completed"
+        "status": "Completed",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-2 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 70,
-        "status": "InProgress"
+      {"_id": 2,
+        "weekTitle": "Week-2 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "InProgress",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-3 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 0,
-        "status": "Start"
+      {"_id": 3,
+        "weekTitle": "Week-3 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "Start",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-4 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 50,
-        "status": "InProgress"
+      {"_id": 4,
+        "weekTitle": "Week-4 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "InProgress",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week1": "Week-5 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 100,
-        "status": "Completed"
+      {"_id": 5,
+        "weekTitle": "Week-5 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "Completed",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       }
 
     ]
   },
     {
         "id":2,
+        "username": "sakil",
     "courseName": "Intro to Blockchain",
     "courseSubTitle": "Blockchain Cryptocurrency Fundamentals",
     "modulesCompletion": "8.3/10 Modules",
     "completionRate": 83,
     "modules": [
-      {
-        "week": "Week-1 Fundamentals of Cryptocurrency",
+      {"_id": 6,
+        "weekTitle": "Week-1 Fundamentals of Cryptocurrency",
         "mCompletionRate": 100,
-        "status": "Completed"
+        "status": "Completed",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-2 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 80,
-        "status": "InProgress"
+      {"_id": 7,
+        "weekTitle": "Week-2 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "InProgress",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-3 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 0,
-        "status": "Start"
+      {"_id": 8,
+        "weekTitle": "Week-3 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "Start",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-4 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 40,
-        "status": "InProgress"
+      {"_id": 9,
+        "weekTitle": "Week-4 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "InProgress",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week1": "Week-5 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 100,
-        "status": "Completed"
+      {"_id": 10,
+        "weekTitle": "Week-5 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "Completed",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       }
 
     ]
   },
     {
-        "id":3,
+    "id":3,
+    "username": "sakil",
     "courseName": "Intro to Blockchain",
     "courseSubTitle": "Blockchain Cryptocurrency Fundamentals",
     "modulesCompletion": "8.3/10 Modules",
     "completionRate": 83,
     "modules": [
-      {
-        "week": "Week-1 Fundamentals of Cryptocurrency",
+      { "_id": 11,
+        "weekTitle": "Week-1 Fundamentals of Cryptocurrency",
         "mCompletionRate": 100,
-        "status": "Completed"
+        "status": "Completed",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-2 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 80,
-        "status": "InProgress"
+      {"_id": 12,
+        "weekTitle": "Week-2 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "InProgress",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-3 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 0,
-        "status": "Start"
+      {"_id": 13,
+        "weekTitle": "Week-3 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "Start",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-4 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 40,
-        "status": "InProgress"
+      {"_id": 14,
+        "weekTitle": "Week-4 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "InProgress",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week1": "Week-5 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 100,
-        "status": "Completed"
+      {"_id": 15,
+        "weekTitle": "Week-5 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "Completed",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       }
 
     ]
   },
     {
         "id":4,
+        "username": "sakil",
     "courseName": "Intro to Blockchain",
     "courseSubTitle": "Blockchain Cryptocurrency Fundamentals",
     "modulesCompletion": "8.3/10 Modules",
     "completionRate": 83,
     "modules": [
-      {
-        "week": "Week-1 Fundamentals of Cryptocurrency",
+      {"_id": 16,
+        "weekTitle": "Week-1 Fundamentals of Cryptocurrency",
         "mCompletionRate": 100,
-        "status": "Completed"
+        "status": "Completed",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-2 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 80,
-        "status": "InProgress"
+      {"_id": 17,
+        "weekTitle": "Week-2 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "InProgress",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-3 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 0,
-        "status": "Start"
+      {"_id": 18,
+        "weekTitle": "Week-3 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "Start",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-4 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 40,
-        "status": "InProgress"
+      {"_id": 19,
+        "weekTitle": "Week-4 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "InProgress",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week1": "Week-5 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 100,
-        "status": "Completed"
+      {"_id": 20,
+        "weekTitle": "Week-5 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "Completed",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       }
 
     ]
   },
     {
         "id":5,
+        "username": "sakil",
     "courseName": "Intro to Blockchain",
     "courseSubTitle": "Blockchain Cryptocurrency Fundamentals",
     "modulesCompletion": "8.3/10 Modules",
     "completionRate": 83,
     "modules": [
-      {
-        "week": "Week-1 Fundamentals of Cryptocurrency",
+      { "_id": 21,
+        "weekTitle": "Week-1 Fundamentals of Cryptocurrency",
         "mCompletionRate": 100,
-        "status": "Completed"
+        "status": "Completed",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-2 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 80,
-        "status": "InProgress"
+      {"_id": 22,
+        "weekTitle": "Week-2 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "InProgress",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-3 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 0,
-        "status": "Start"
+      {"_id": 23,
+        "weekTitle": "Week-3 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "Start",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week": "Week-4 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 40,
-        "status": "InProgress"
+      {"_id": 24,
+        "weekTitle": "Week-4 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "InProgress",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       },
-      {
-        "week1": "Week-5 Fundamentals of Cryptocurrency",
-        "mCompletionRate": 100,
-        "status": "Completed"
+      {"_id": 25,
+        "weekTitle": "Week-5 Fundamentals of Cryptocurrency",
+        "mCompletionRate": 83,
+        "status": "Completed",
+        "week":[
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          },
+          {
+            "classTitle":"Activity - 1, Join Click Up ",
+            "url":"https://www.youtube.com/watch?v=PE2l8TzHSes"
+          }
+        ]
       }
 
     ]
