@@ -1,7 +1,7 @@
 import React from 'react';
 
 const IncubatorSlideBar = (props) => {
-    const { icon, title, shortDescription, fundStatus, fundCompletation, fundAmount } = props.startupsCard;
+    const { icon, title, fundStatus, fundCompletation, fundAmount } = props.startupsCard;
 
     return (
 
