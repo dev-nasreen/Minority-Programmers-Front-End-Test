@@ -4,7 +4,9 @@ body{
   background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
   font-family: 'Red Hat Display', sans-serif;
 }
-
+a{
+  text-decoration: none;
+}
 /************************** Progress Bar style **************************/
 .progress {
   height: .6rem;
