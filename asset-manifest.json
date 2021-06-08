@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Minority-Programmers-Front-End-Test/static/css/main.d74a48c8.chunk.css",
+    "main.js": "/Minority-Programmers-Front-End-Test/static/js/main.ebb03d19.chunk.js",
+    "main.js.map": "/Minority-Programmers-Front-End-Test/static/js/main.ebb03d19.chunk.js.map",
+    "runtime-main.js": "/Minority-Programmers-Front-End-Test/static/js/runtime-main.addafecf.js",
+    "runtime-main.js.map": "/Minority-Programmers-Front-End-Test/static/js/runtime-main.addafecf.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/Minority-Programmers-Front-End-Test/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.4002576b.chunk.js": "/Minority-Programmers-Front-End-Test/static/js/2.4002576b.chunk.js",
+    "static/js/2.4002576b.chunk.js.map": "/Minority-Programmers-Front-End-Test/static/js/2.4002576b.chunk.js.map",
+    "static/js/3.92a571fc.chunk.js": "/Minority-Programmers-Front-End-Test/static/js/3.92a571fc.chunk.js",
+    "static/js/3.92a571fc.chunk.js.map": "/Minority-Programmers-Front-End-Test/static/js/3.92a571fc.chunk.js.map",
+    "index.html": "/Minority-Programmers-Front-End-Test/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/Minority-Programmers-Front-End-Test/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.d74a48c8.chunk.css.map": "/Minority-Programmers-Front-End-Test/static/css/main.d74a48c8.chunk.css.map",
+    "static/js/2.4002576b.chunk.js.LICENSE.txt": "/Minority-Programmers-Front-End-Test/static/js/2.4002576b.chunk.js.LICENSE.txt",
+    "static/media/adviceStartup.386ea377.png": "/Minority-Programmers-Front-End-Test/static/media/adviceStartup.386ea377.png",
+    "static/media/App.css": "/Minority-Programmers-Front-End-Test/static/media/week-bg.74d0918a.png",
+    "static/media/UserDashboard.css": "/Minority-Programmers-Front-End-Test/static/media/details-bg.679bec35.png",
+    "static/media/HomeBanner.css": "/Minority-Programmers-Front-End-Test/static/media/featuredBG.b6c252f4.png",
+    "static/media/helpCode.09b29348.png": "/Minority-Programmers-Front-End-Test/static/media/helpCode.09b29348.png",
+    "static/media/joinMinority.ce1e3a7a.png": "/Minority-Programmers-Front-End-Test/static/media/joinMinority.ce1e3a7a.png",
+    "static/media/logo.8f7a1351.png": "/Minority-Programmers-Front-End-Test/static/media/logo.8f7a1351.png",
+    "static/media/porfile-image.b43dbc20.png": "/Minority-Programmers-Front-End-Test/static/media/porfile-image.b43dbc20.png",
+    "static/media/LearnBanner.css": "/Minority-Programmers-Front-End-Test/static/media/world.67b23097.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.addafecf.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.4002576b.chunk.js",
+    "static/css/main.d74a48c8.chunk.css",
+    "static/js/main.ebb03d19.chunk.js"
+  ]
+}
